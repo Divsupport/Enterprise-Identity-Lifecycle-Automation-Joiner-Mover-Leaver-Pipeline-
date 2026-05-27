@@ -1,4 +1,3 @@
-# Enterprise-Identity-Lifecycle-Automation-Joiner-Mover-Leaver-Pipeline-
 
 <h1 align="center">🔐 Enterprise Identity Lifecycle Automation: Joiner-Mover-Leaver Pipeline in Microsoft Entra ID</h1>
 
