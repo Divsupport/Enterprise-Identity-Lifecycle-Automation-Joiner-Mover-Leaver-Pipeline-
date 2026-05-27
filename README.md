@@ -17,7 +17,7 @@ Modern organizations manage employee identities across multiple departments, off
 - Slow employee offboarding
 - Lack of governance visibility
 
-This project demonstrates a complete enterprise Identity Lifecycle Management deployment using Microsoft Entra ID inside a simulated company environment called <b>NexusCorp Global</b>.
+This project demonstrates a complete enterprise Identity Lifecycle Management deployment using Microsoft Entra ID inside a simulated company environment called <b>AeroMedia Global</b>.
 
 The implementation focused on building a secure and scalable Joiner-Mover-Leaver (JML) identity governance process for the company's New York regional branch.
 
@@ -38,7 +38,7 @@ The environment was designed to simulate a real enterprise cloud identity govern
 
 <h2>🏢 Enterprise Scenario</h2>
 
-<b>NexusCorp Global</b> recently expanded its operations into multiple regions and departments. As the company grew, the IT department began experiencing identity governance challenges including:
+<b>AeroMedia Global</b> recently expanded its operations into multiple regions and departments. As the company grew, the IT department began experiencing identity governance challenges including:
 
 - Employees receiving incorrect access permissions
 - Regional administrators having excessive privileges
@@ -97,20 +97,6 @@ The primary goal was to build a centralized lifecycle governance system capable 
 # 🚀 Enterprise Implementation Walkthrough
 
 ---
-
-# Phase 1: Preparing the Enterprise Identity Environment
-
-The first phase focused on preparing the cloud identity infrastructure required for the Joiner-Mover-Leaver deployment.
-
-I first signed into the Microsoft Entra Admin Center using a Global Administrator account.
-
-Portal URL:
-
-```text
-https://entra.microsoft.com
-```
-
-After authentication completed successfully, I gained access to the centralized cloud identity management environment.
 
 <img src="images/step1.jpg"/> <br /><br />
 
