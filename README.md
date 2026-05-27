@@ -9,7 +9,7 @@ Built by <span style="color:#0078D4;">Divine Oguamanam</span>
 
 <h2>Project Overview</h2>
 
-This project shows how to build a full identity lifecycle system in **Microsoft Entra ID** using **Microsoft Forms**, **Power Automate**, and **Microsoft Graph PowerShell**.
+This project shows how to build a full identity lifecycle system in **Microsoft Entra ID** using **Microsoft Forms**, and **Power Automate**.
 
 The business goal is simple.  
 Remove manual work from identity management.
