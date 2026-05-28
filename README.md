@@ -28,9 +28,7 @@ The project demonstrates how enterprise organizations automate and secure:
 - Employee offboarding
 - Access reassignment
 - Security group governance
-- Administrative segmentation
 - Identity visibility
-- Role-based access management
 
 The environment was designed to simulate a real enterprise cloud identity governance architecture used by modern organizations.
 
@@ -40,12 +38,10 @@ The environment was designed to simulate a real enterprise cloud identity govern
 
 <b>AeroMedia Global</b> recently expanded its operations into multiple regions and departments. As the company grew, the IT department began experiencing identity governance challenges including:
 
-- Employees receiving incorrect access permissions
-- Regional administrators having excessive privileges
+
 - Manual onboarding delays
 - Old employee accounts remaining active
 - Lack of centralized governance
-- Security risks caused by inconsistent role assignments
 
 To solve these problems, the organization decided to redesign its identity management architecture using Microsoft Entra ID.
 
@@ -59,11 +55,10 @@ The primary goal was to build a centralized lifecycle governance system capable 
 | :--- | :--- |
 | Microsoft Entra ID | Identity and access management |
 | Microsoft Azure Portal | Cloud administration platform |
-| Administrative Units | Identity segmentation |
-| RBAC | Role-based access control |
+| Identity segmentation |
 | Security Groups | Workforce access management |
 | Microsoft 365 Groups | Collaboration management |
-| Windows 11 Enterprise | Administrative workstation |
+| Windows 11 Enterprise |
 | Microsoft 365 Tenant | Enterprise cloud environment |
 
 ---
@@ -75,9 +70,9 @@ The primary goal was to build a centralized lifecycle governance system capable 
 | Identity Provider | Microsoft Entra ID |
 | Tenant Type | Microsoft Entra ID Developer Tenant |
 | Root Domain | `syskko.onmicrosoft.com` |
-| Administrative Workstation | Windows 11 Enterprise |
-| Browser Testing Mode | Incognito / Private Session |
-| Privileged Account | Global Administrator |
+| Windows 11 Enterprise |
+| Browser Testing Mode |
+| Global Administrator |
 
 ---
 
@@ -87,10 +82,8 @@ The primary goal was to build a centralized lifecycle governance system capable 
 2. Create secure onboarding workflows for new employees.
 3. Simulate employee department transfers.
 4. Implement secure offboarding procedures.
-5. Segment administration using Administrative Units.
-6. Create enterprise workforce security groups.
-7. Validate identity governance boundaries.
-8. Reduce excessive administrative permissions.
+5. Create enterprise workforce security groups.
+6. Validate identity governance boundaries.
 
 ---
 
